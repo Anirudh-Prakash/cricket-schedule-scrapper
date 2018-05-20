@@ -1,8 +1,6 @@
 # cricket-schedule-scrapper
 Flask application which scrapes the schedule of teams from Cricbuzz and lets you add it to your google calendar (Using Google Calendar API) .
 
-Link to the App- https://cricketschedule.herokuapp.com/
-
 ## Requirements
 * Flask
 * BeautifulSoup (Web Scraping)
